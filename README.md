@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 📝 I regularly write articles on [@https://t.me/flutter_developer_uz](@https://t.me/flutter_developer_uz)
+- 📝 I regularly write articles on [t.me/flutter_developer_uz](t.me/flutter_developer_uz)
 
 - 💬 Ask me about **flutter**
 
 - 📫 How to reach me **mirvoxidraxmonbekov@gmail.com**
 
-- 📄 Know about my experiences [@https://t.me/flutter_developer_uz](@https://t.me/flutter_developer_uz)
+- 📄 Know about my experiences [t.me/flutter_developer_uz](t.me/flutter_developer_uz)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
