@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SevenOne</h1>
 <h3 align="center">A passionate mobil developer from Uzbekistan</h3>
- <img align="right" width="400" src="https://i.pinimg.com/originals/03/a4/a5/03a4a5f034bf0bafa661fd8a8aabedc8.gif"/> 
+ <img align="right" width="500" src="https://i.pinimg.com/originals/03/a4/a5/03a4a5f034bf0bafa661fd8a8aabedc8.gif"/> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uzxteam&label=Profile%20views&color=0e75b6&style=flat" alt="MrUzx" /> </p>
 
 
