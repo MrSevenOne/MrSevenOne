@@ -33,10 +33,8 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uzxteam&show_icons=true&locale=en&layout=compact" alt="uzxteam" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MrUzx&show_icons=true&locale=en&layout=compact" alt="MrUzx" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uzxteam&show_icons=true&locale=en" alt="uzxteam" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uzxteam&" alt="uzxteam" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MrUzx&" alt="MrUzx" /></p>
 <img src=https://raw.githubusercontent.com/yetimdasturchi/yetimdasturchi/output/snake.svg>
 
