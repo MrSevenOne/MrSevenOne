@@ -1,4 +1,3 @@
-<img src=https://raw.githubusercontent.com/yetimdasturchi/yetimdasturchi/output/snake.svg>
 <h1 align="center">Hi 👋, I'm Temur</h1>
 <h3 align="center">A passionate mobil developer from Uzbekistan</h3>
  <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="uzxteam" /> 
@@ -39,3 +38,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uzxteam&show_icons=true&locale=en" alt="uzxteam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uzxteam&" alt="uzxteam" /></p>
+<img src=https://raw.githubusercontent.com/yetimdasturchi/yetimdasturchi/output/snake.svg>
+
