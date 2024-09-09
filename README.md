@@ -33,7 +33,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SevenOne&show_icons=true&locale=en&layout=compact" alt="MrUzx" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MrUzx&" alt="MrUzx" /></p>
 <img src=https://raw.githubusercontent.com/yetimdasturchi/yetimdasturchi/output/snake.svg>
