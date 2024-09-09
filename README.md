@@ -11,8 +11,11 @@
 
 - 💬 Ask me about **FLUTTER**
 
-<h3 align="left">Connect with me: https://t.me/Mr_SevenOne</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://stackoverflow.com/users/user:21365914" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:21365914" height="30" width="40" /></a>
+<a href="https://instagram.com/mr_seven.one" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_seven.one" height="30" width="40" /></a>
+</p><p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
