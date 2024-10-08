@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mirvoxid</h2>
+<h2 align="center">Hi 👋! My name is Mirvoxid</h2>
 
 ###
 
@@ -31,3 +31,4 @@
 </div>
 
 ###
+<img src="https://raw.githubusercontent.com/yetimdasturchi/yetimdasturchi/output/snake.svg" alt="Snake animation" />
