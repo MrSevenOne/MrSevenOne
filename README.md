@@ -63,11 +63,3 @@
 
 <img src="https://raw.githubusercontent.com/yetimdasturchi/yetimdasturchi/output/snake.svg" alt="Snake animation" />
 
-## My Top Repositories
-
-## My Top Repositories
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=MrUzx&repo=hello-world)](https://github.com/MrUzx/hello-world)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=MrUzx&repo=Spoon-Knife)](https://github.com/MrUzx/Spoon-Knife)
-
