@@ -2,11 +2,9 @@
 
 ###
 <h3 align="left">🧑🏻‍💻  About Me</h3>
+ <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="uzxteam" /> 
 <div>
   <h4 align="left">- 🧑🏻‍💻 I am a mobile developer<br>- 👨🏻‍🎓 I am a student of Andmi <br>- 📚  I'm currently learning PHP<br>- ⚡  In my free time I play PC<br> -💬 Ask me about Flutter and Dart</h4>
-</div>
-<div>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1m5_E6_X7SAFEQgiN-Mwpg&ust=1728620801851000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMiXp8X_gokDFQAAAAAdAAAAABAE" height="30" alt="gif" />
 </div>
 ###
 
