@@ -2,8 +2,12 @@
 
 ###
 
-<h4 align="left">- 🧑🏻‍💻 I am a mobile developer<br>- 👨🏻‍🎓 I am a student of Andmi <br>- 📚  I'm currently learning PHP<br>- ⚡  In my free time I play PC<br> 💬 Ask me about Flutter and Dart
+<h4 align="left">- 🧑🏻‍💻 I am a mobile developer<br>- 👨🏻‍🎓 I am a student of Andmi <br>- 📚  I'm currently learning PHP<br>- ⚡  In my free time I play PC<br> -💬 Ask me about Flutter and Dart
 </h4>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
