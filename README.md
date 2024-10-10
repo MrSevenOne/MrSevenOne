@@ -65,7 +65,9 @@
 
 ## My Top Repositories
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=MrUzx&repo=hello-world)](https://github.com/octocat/hello-world)
+## My Top Repositories
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=octocat&repo=Spoon-Knife)](https://github.com/octocat/Spoon-Knife)
+[![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=MrUzx&repo=hello-world)](https://github.com/MrUzx/hello-world)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=MrUzx&repo=Spoon-Knife)](https://github.com/MrUzx/Spoon-Knife)
 
