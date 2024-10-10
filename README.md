@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mirvoxid, I'm Mobile Developer</h2>
+<h2 align="center">Hi 👋! My name is Mirvoxid, I'm Mobile Developer</h2>
 
 ###
 <h3 align="left">🧑🏻‍💻  About Me</h3>
