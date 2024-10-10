@@ -58,6 +58,8 @@
 <h3 align="left">Github status:</h3>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrUzx&layout=compact&bg_color=000000&text_color=ffffff)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MrUzx&show_icons=true&theme=radical)
+
 
 
 
