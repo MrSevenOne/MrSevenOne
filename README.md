@@ -18,7 +18,7 @@
   - 💬 Ask me about Flutter and Dart
 
 <h3 align="left">🛠 Language and tools</h3>
-###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
   <img width="15" />
@@ -34,9 +34,9 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
-###
+
 <h3 align="left">🌐 Connect with Me:</h3>
-###
+
 <div align="left">
   <a href="https://www.youtube.com/@flutterdev_uz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo" />
