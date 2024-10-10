@@ -61,6 +61,10 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrUzx&layout=compact&bg_color=000000&text_color=ffffff" style="width: 400px; height: 200px;" />
     <img src="https://github-readme-stats.vercel.app/api?username=MrUzx&show_icons=true&theme=radical" style="width: 400px; height: 200px;" />
 </div>
+<div style="display: flex; justify-content: center; align-items: flex-start;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrUzx&layout=compact&bg_color=000000&text_color=ffffff" style="width: 49%; height: auto;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=MrUzx&show_icons=true&theme=radical" style="width: 49%; height: auto;"/>
+</div>
 
 
 
