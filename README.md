@@ -4,8 +4,7 @@
 
 
 <h2 align="center">Hi 👋! My name is Mirvoxid, I'm Mobile Developer</h2>
-
-###
+ <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="SevenOne" /> 
 <h3 align="left">🧑🏻‍💻  About Me</h3>
 
   - 🧑🏻‍💻 I am a mobile developer
