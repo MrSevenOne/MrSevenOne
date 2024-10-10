@@ -2,7 +2,7 @@
 
 ###
 <h3 align="left">🧑🏻‍💻  About Me</h3>
- <img align="right" width="400" src="https://cdn.dribbble.com/users/795597/screenshots/6081444/mobile_development2.gif" /> 
+ <img align="right" width="400" src="https://digitalroar.ae/img/mobile-app-development.gif" /> 
 
   - 🧑🏻‍💻 I am a mobile developer
   
