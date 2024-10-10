@@ -1,8 +1,9 @@
+ <img src="https://digitalroar.ae/img/mobile-app-development.gif" /> 
+
 <h2 align="center">Hi 👋! My name is Mirvoxid, I'm Mobile Developer</h2>
 
 ###
 <h3 align="left">🧑🏻‍💻  About Me</h3>
- <img align="right" width="400" src="https://digitalroar.ae/img/mobile-app-development.gif" /> 
 
   - 🧑🏻‍💻 I am a mobile developer
   
