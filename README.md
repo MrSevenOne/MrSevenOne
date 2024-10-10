@@ -4,7 +4,6 @@
 
 
 <h2 align="center">Hi 👋! My name is Mirvoxid, I'm Mobile Developer</h2>
-<br/>
 <img align="right" width="370" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="SevenOne" style="margin-left: 200px;" />
 <h3 align="left">🧑🏻‍💻  About Me</h3>
 
@@ -61,9 +60,4 @@
   </a>
 </div>
 
-
-###
-
 <img src="https://raw.githubusercontent.com/yetimdasturchi/yetimdasturchi/output/snake.svg" alt="Snake animation" />
-
-###
