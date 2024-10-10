@@ -57,8 +57,6 @@
 </div>
 <h3 align="left">Github status:</h3>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrUzx&layout=compact&bg_color=000000&text_color=ffffff&height=200)
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MrUzx&show_icons=true&theme=radical&height=200)
 <div style="display: flex; justify-content: center; align-items: center;">
     <div style="margin: 10px;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrUzx&layout=compact&bg_color=000000&text_color=ffffff" style="height: 200px;" />
@@ -68,6 +66,14 @@
     </div>
 </div>
 
+<div style="display: flex; justify-content: center; align-items: center;">
+    <div style="margin: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrUzx&layout=compact&bg_color=000000&text_color=ffffff" style="height: 200px;" />
+    </div>
+    <div style="margin: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=MrUzx&show_icons=true&theme=radical" style="height: 200px;" />
+    </div>
+</div>
 
 
 
