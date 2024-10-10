@@ -3,12 +3,11 @@
 ###
 <h3 align="left">🧑🏻‍💻  About Me</h3>
  <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="uzxteam" /> 
-  🧑🏻‍💻 I am a mobile developer
-  👨🏻‍🎓 I am a student of Andmi
-  📚  I'm currently learning
-  ⚡  In my free time I play PC
-  💬 Ask me about Flutter and Dart
-###
+  - 🧑🏻‍💻 I am a mobile developer
+  - 👨🏻‍🎓 I am a student of Andmi
+  - 📚  I'm currently learning
+  - ⚡ In my free time I play PC
+  - 💬 Ask me about Flutter and Dart
 
 <h3 align="left">🛠 Language and tools</h3>
 
