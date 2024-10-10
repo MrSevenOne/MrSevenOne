@@ -57,10 +57,11 @@
 </div>
 <h3 align="left">Github status:</h3>
 
-<div align="center">
+<div style="display: flex; align-items: center; gap: 20px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrUzx&layout=compact&bg_color=000000&text_color=ffffff" style="height: 180px;"/>
     <img src="https://github-readme-stats.vercel.app/api?username=MrUzx&show_icons=true&theme=radical" style="height: 180px;"/>
 </div>
+
 
 
 
