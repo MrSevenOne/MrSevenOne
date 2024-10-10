@@ -58,16 +58,10 @@
 <h3 align="left">Github status:</h3>
 
 <div style="display: flex; justify-content: center; align-items: flex-start;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrUzx&layout=compact&bg_color=000000&text_color=ffffff" style="width: 49%; height: 300;"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=MrUzx&show_icons=true&theme=radical" style="width: 49%; height: 400;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrUzx&layout=compact&bg_color=000000&text_color=ffffff""/>
+    <img src="https://github-readme-stats.vercel.app/api?username=MrUzx&show_icons=true&theme=radical""/>
 </div>
 
-
-
-<div style="display: flex; justify-content: center; align-items: flex-start;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrUzx&layout=compact&bg_color=000000&text_color=ffffff" style="width: 49%; height: 300px; object-fit: contain;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=MrUzx&show_icons=true&theme=radical" style="width: 49%; height: 300px; object-fit: contain;" />
-</div>
 
 
 <img src="https://raw.githubusercontent.com/yetimdasturchi/yetimdasturchi/output/snake.svg" alt="Snake animation" />
