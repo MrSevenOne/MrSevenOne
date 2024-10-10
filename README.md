@@ -1,6 +1,7 @@
 <h2 align="left">Hi 👋! My name is Mirvoxid, I'm Mobile Developer</h2>
 
 ###
+<h3 align="left">🧑🏻‍💻  About Me</h3>
 
 <h4 align="left">- 🧑🏻‍💻 I am a mobile developer<br>- 👨🏻‍🎓 I am a student of Andmi <br>- 📚  I'm currently learning PHP<br>- ⚡  In my free time I play PC<br> -💬 Ask me about Flutter and Dart
 </h4>
