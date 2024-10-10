@@ -58,6 +58,8 @@
 <h3 align="left">Github status:</h3>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrUzx&layout=compact&bg_color=000000&text_color=ffffff)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MrUzx)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![](https://komarev.com/ghpvc/?username=MrUzx&color=black)
 
 
