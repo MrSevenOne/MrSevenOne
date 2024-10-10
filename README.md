@@ -27,7 +27,7 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
-## 🌐 Connect with Me:
+### 🌐 Connect with Me:
 <br clear="both">
 
 <div align="left">
