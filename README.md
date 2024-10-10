@@ -55,8 +55,9 @@
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="stackoverflow logo" />
   </a>
 </div>
+<h3 align="left">Github status:</h3>
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MrUzx&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrUzx&layout=compact)
 
 
 <img src="https://raw.githubusercontent.com/yetimdasturchi/yetimdasturchi/output/snake.svg" alt="Snake animation" />
