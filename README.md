@@ -16,7 +16,7 @@
   - ⚡ In my free time I play PC
     
   - 💬 Ask me about Flutter and Dart
-  - 
+<br/>
 
 <h3 align="left">🛠 Language and tools</h3>
 
