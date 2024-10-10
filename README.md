@@ -11,11 +11,12 @@
   
   - 👨🏻‍🎓 I am a student of Andmi
    
-  - 📚  I'm currently learning
+  - 📚  I'm currently learning PHP
     
   - ⚡ In my free time I play PC
     
   - 💬 Ask me about Flutter and Dart
+  - 
 
 <h3 align="left">🛠 Language and tools</h3>
 
