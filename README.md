@@ -2,7 +2,7 @@
 
 ###
 <h3 align="left">🧑🏻‍💻  About Me</h3>
- <img align="right" width="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1m5_E6_X7SAFEQgiN-Mwpg&ust=1728620801851000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMiXp8X_gokDFQAAAAAdAAAAABAE" /> 
+ <img align="right" width="200" src="https://cdn.dribbble.com/users/795597/screenshots/6081444/mobile_development2.gif" /> 
 
   - 🧑🏻‍💻 I am a mobile developer
   
