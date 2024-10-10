@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://digitalroar.ae/img/mobile-app-development.gif" alt="gif" style="width: 100%;" />
+ <img src="https://digitalroar.ae/img/mobile-app-development.gif" alt="gif" style="max-width: 100%;" />
 </div>
 
 
