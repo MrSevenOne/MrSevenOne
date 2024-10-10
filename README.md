@@ -1,4 +1,4 @@
- <img src="https://digitalroar.ae/img/mobile-app-development.gif" /> 
+ <img align="center" width="500" src="https://digitalroar.ae/img/mobile-app-development.gif" /> 
 
 <h2 align="center">Hi 👋! My name is Mirvoxid, I'm Mobile Developer</h2>
 
