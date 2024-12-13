@@ -11,7 +11,7 @@
   
   - 👨🏻‍🎓 I am a student of Andmi
    
-  - 📚  I'm currently learning PHP
+  - 📚  I'm currently learning Java
     
   - ⚡ In my free time I play PC
     
