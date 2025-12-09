@@ -9,9 +9,9 @@
 
   - 🧑🏻‍💻 I am a mobile developer
   
-  - 👨🏻‍🎓 I am a student of Andmi
+  - 👨🏻‍🎓 I am a student of Andmi 4/4
    
-  - 📚  I'm currently learning Java
+  - 📚  I'm currently learning English
     
   - ⚡ In my free time I play PC
     
